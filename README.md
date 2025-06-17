@@ -1,5 +1,5 @@
 <h2>Howdy , it's <i>Dark 👋</i></h2>
-Passionate <b>Hacking/Cyber Security</b> enthusiast with a little coding experience.
+Passionate <b>Hacking/Cyber Security</b> enthusiast with deep passion for offensive security and cyber defense
 <br /><br />
 
 <!-- Badges -->
