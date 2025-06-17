@@ -43,10 +43,10 @@ sh-6.9$ /bin/bash -i
 <a href="#"><img align="right" height=290 src="assets/tux.svg"></a>
 
 - I am a **Hacker** 📚
-- I am from **NoWhere** 👾 
+- From **NoWhere** 👾 
 - Love of my life : **Hacking** 🛌
-- Dream: become The best in Hacking 💸
-- Fun Fact: I spend more time in **commenting**
+- Dream: To become the best hacker 💸
+- Fun Fact: I’m always **curious** to **learn** new tricks
 
 ### Current Works:
 - Participating in CTF's.
