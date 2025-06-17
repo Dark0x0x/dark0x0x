@@ -44,9 +44,9 @@ sh-6.9$ /bin/bash -i
 
 - I am a **Hacker** 📚
 - From **NoWhere** 👾 
-- Love of my life : **Hacking** 🛌
-- Dream: To become the best hacker 💸
-- Fun Fact: I’m always **curious** to **learn** new tricks 😄
+- Love of my life : **Hacking** ❤️‍🔥
+- Dream: To become the best hacker 🏆
+- Fun Fact: I’m always **curious** to **learn** new tricks 🧠
 
 ### Current Works:
 - Participating in CTF's.
