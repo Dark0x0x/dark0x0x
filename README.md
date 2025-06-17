@@ -46,7 +46,7 @@ sh-6.9$ /bin/bash -i
 - From **NoWhere** 👾 
 - Love of my life : **Hacking** 🛌
 - Dream: To become the best hacker 💸
-- Fun Fact: I’m always **curious** to **learn** new tricks
+- Fun Fact: I’m always **curious** to **learn** new tricks 😄
 
 ### Current Works:
 - Participating in CTF's.
