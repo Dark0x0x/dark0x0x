@@ -49,9 +49,9 @@ sh-6.9$ /bin/bash -i
 - Fun Fact: I’m always **curious** to **learn** new tricks 🧠
 
 ### Current Works:
-- Participating in CTF's.
-- Learning Golang.
-- Trying to get good marks in exams.
+- Practicing offensive hacking daily.
+- Developing custom tools for Kali Linux environments.
+- Automating post-exploitation and attack workflows.
 - Working on some private projects.
 <hr />
 
@@ -65,6 +65,10 @@ sh-6.9$ /bin/bash -i
     <tr>
         <td><a href="https://github.com/ucybers/setupkali">setupkali</a></td>
         <td>A tool to customize and modify Kali Linux after installation.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ucybers/setupkali">Awesome Black Hat Tools</a></td>
+        <td>A curated list of tools officially presented at Black Hat events</td>
     </tr>
     <tr>
         <td><a href="https://github.com/UCYBERS/breach-analyzer">breach-analyzer</a></td>
