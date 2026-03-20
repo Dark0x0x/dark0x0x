@@ -103,8 +103,8 @@ class Languages:
   def __init__(self):
     self.python = "Python 🐍"
     self.bash = "Bash 🔩"
-    self.golang = "C++ (Learning)"
-    self.future = "..."
+    self.cpp = "C++ (Proficient) ⚙️"
+    self.future = "Go & Rust (Networking/VPNs focus) 🚀"
 ```
 
 <br/>
