@@ -124,7 +124,7 @@ class Languages:
   </tr>
   <tr>
     <td>Device 2</td>
-    <td>Kali Linux 2025.1c</td>
+    <td>Kali Linux 2025.4</td>
     <td>-</td>
   </tr>
   <tr>
@@ -134,7 +134,7 @@ class Languages:
   </tr>
   <tr>
     <td>Samsung Galaxy ***</td>
-    <td>Android 15, OneUI 7.0</td>
+    <td>Android 16, OneUI 8.0</td>
     <td>Octa-Core</td>
   </tr>
 </table>
