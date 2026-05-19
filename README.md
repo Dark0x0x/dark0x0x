@@ -124,7 +124,7 @@ class Languages:
   </tr>
   <tr>
     <td>Device 2</td>
-    <td>Kali Linux 2025.4</td>
+    <td>Kali Linux 2026.1</td>
     <td>-</td>
   </tr>
   <tr>
